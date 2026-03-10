@@ -64,6 +64,8 @@ TCP Packet (porta 5152)
 WinDivert intercepta
    ↓
 tcp-redirect altera porta
+
+This software uses WinDivert licensed under LGPLv3
    ↓
 TCP Packet (porta 10000)
    ↓
